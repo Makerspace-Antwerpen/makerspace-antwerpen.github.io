@@ -1,0 +1,8 @@
+- name: Over ons
+  link: /
+- name: Voor bedrijven
+  link: /bedrijven
+- name: Voor burgers
+  link: /burgers
+- name: Contact
+  link: /contact
